@@ -1,5 +1,7 @@
 # Deze Lyu's User Page
-[![Demo](https://github.com/KelinLyu/KGLEngine/blob/main/KGLEngine/Resources/GitHub%20Images/Demo.png)](#)
+<br/>
+[![image1](image1.png)](#)
+<br/>
 ## Hi, my name is Deze Lyu...
 ### Currently taking CSE 110...
 #### I'm an indie game developer...
@@ -37,4 +39,6 @@ And the graphics APIs I have mastered:
 - [x] Vulkan
 - [x] Metal
 - [ ] DirectX
-[![Demo](https://github.com/ucsd-cse125-sp22/cse125-sp22-group5/blob/main/Screenshots/Screenshot1.png)](#)
+<br/>
+[![image2](image2.png)](#)
+<br/>
