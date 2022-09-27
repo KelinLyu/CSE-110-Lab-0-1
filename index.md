@@ -21,3 +21,19 @@ int main() {
 [My Game Engine (on GitHub)](https://github.com/KelinLyu/KGLEngine)<br/>
 [Section Link (to the top)](#deze-lyus-user-page)<br/>
 [Relative Link (to the empty README.md of this branch)](README.md)
+# Lists
+My favourite programming languages:
+- Swift
+- C/C++
+- Python
+- Java
+Again, my favourite programming languages:
+1. Swift
+2. C/C++
+3. Python
+4. Java
+And the graphics APIs I have mastered:
+- [x] OpenGL
+- [x] Vulkan
+- [x] Metal
+- [ ] DirectX
