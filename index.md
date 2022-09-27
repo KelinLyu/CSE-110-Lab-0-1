@@ -17,7 +17,7 @@ int main() {
 }
 ```
 # Links
-[My iOS Game](https://apps.apple.com/us/app/wizards-battle-chess/id1441353927)<br/>
-[My Game Engine](https://github.com/KelinLyu/KGLEngine)<br/>
-[Section Link](#deze-lyus-user-page)
-[Relative Link](README.md)
+[My iOS Game (on AppStore)](https://apps.apple.com/us/app/wizards-battle-chess/id1441353927)<br/>
+[My Game Engine (on GitHub)](https://github.com/KelinLyu/KGLEngine)<br/>
+[Section Link (to the top)](#deze-lyus-user-page)<br/>
+[Relative Link (to the empty README.md of this branch)](README.md)
