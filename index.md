@@ -8,7 +8,7 @@
 # Styling
 The above lines test the headings. Here comes the **Styling** text. As you can see, *markdown* is very interesting, ~~isn't it?~~ **I'm being _honest_ right now!**<sub>Am I serious?</sub><sup>Oh god this is finally over!</sup>
 # Quoting
-> Create a new file called index.md. This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment, your page must include the following:
+> Create a new file called index.md. This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment...
 ```
 #include <iostream>
 int main() {
@@ -16,3 +16,7 @@ int main() {
     return 0;
 }
 ```
+# Links
+[My iOS Game](https://apps.apple.com/us/app/wizards-battle-chess/id1441353927)
+[My Game Engine](https://github.com/KelinLyu/KGLEngine)
+[Section Link](#deze-lyu-s-user-page)
