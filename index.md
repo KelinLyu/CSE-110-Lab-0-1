@@ -1,7 +1,5 @@
 # Deze Lyu's User Page
-<br/>
 [![image1](image1.png)](#)
-<br/>
 ## Hi, my name is Deze Lyu...
 ### Currently taking CSE 110...
 #### I'm an indie game developer...
@@ -39,6 +37,4 @@ And the graphics APIs I have mastered:
 - [x] Vulkan
 - [x] Metal
 - [ ] DirectX
-<br/>
 [![image2](image2.png)](#)
-<br/>
